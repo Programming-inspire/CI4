@@ -1,0 +1,394 @@
+CRITICAL - 2022-07-23 00:31:15 --> syntax error, unexpected 'if' (T_IF)
+in APPPATH\Config\Routes.php on line 54.
+ 1 SYSTEMPATH\CodeIgniter.php(415): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+ 2 SYSTEMPATH\CodeIgniter.php(345): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 SYSTEMPATH\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+ 4 ROOTPATH\spark(86): CodeIgniter\CLI\Console->run()
+CRITICAL - 2022-07-23 00:44:34 --> Invalid file: Login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Login', [], true)
+ 3 APPPATH\Controllers\Auth.php(18): view('Login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:46:44 --> Invalid file: login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\Auth.php(18): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:50:06 --> Invalid file: login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\Auth.php(18): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:52:15 --> Invalid file: login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\Auth.php(18): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:52:29 --> Invalid file: login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\Auth.php(18): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:54:15 --> Invalid file: login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\Auth.php(18): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 00:54:18 --> Invalid file: login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\Auth.php(18): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->login()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 02:48:07 --> required  is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 314.
+ 1 SYSTEMPATH\Validation\Validation.php(314): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+ 2 SYSTEMPATH\Validation\Validation.php(173): CodeIgniter\Validation\Validation->processRules('email', 'email', 'ROOTPATH\\public', [...], [...])
+ 3 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Auth.php(35): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 02:48:14 --> required  is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 314.
+ 1 SYSTEMPATH\Validation\Validation.php(314): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+ 2 SYSTEMPATH\Validation\Validation.php(173): CodeIgniter\Validation\Validation->processRules('email', 'email', 'ROOTPATH\\public', [...], [...])
+ 3 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Auth.php(35): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 02:48:44 --> required  is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 314.
+ 1 SYSTEMPATH\Validation\Validation.php(314): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+ 2 SYSTEMPATH\Validation\Validation.php(173): CodeIgniter\Validation\Validation->processRules('email', 'email', 'ROOTPATH\\public', [...], [...])
+ 3 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Auth.php(35): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 02:50:27 --> required  is not a valid rule.
+in SYSTEMPATH\Validation\Validation.php on line 314.
+ 1 SYSTEMPATH\Validation\Validation.php(314): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('required ')
+ 2 SYSTEMPATH\Validation\Validation.php(173): CodeIgniter\Validation\Validation->processRules('email', 'email', 'ROOTPATH\\public', [...], [...])
+ 3 SYSTEMPATH\Controller.php(140): CodeIgniter\Validation\Validation->run()
+ 4 APPPATH\Controllers\Auth.php(35): CodeIgniter\Controller->validate([...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 02:54:19 --> Use of undefined constant validated - assumed 'validated' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\Auth.php on line 41.
+ 1 APPPATH\Controllers\Auth.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant validated - assumed \'validated\' (this will throw an Error in a future version of PHP)', 'APPPATH\\Controllers\\Auth.php', 41, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 02:54:56 --> Invalid file: register.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('register', [], true)
+ 3 APPPATH\Controllers\Auth.php(43): view('register', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 06:36:38 --> syntax error, unexpected 'if' (T_IF)
+in APPPATH\Controllers\Auth.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Auth.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Auth')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Auth')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Auth', true)
+ 6 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:25:30 --> Undefined variable: name
+in APPPATH\Controllers\Auth.php on line 89.
+ 1 APPPATH\Controllers\Auth.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: name', 'APPPATH\\Controllers\\Auth.php', 89, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-23 09:26:44 --> Table 'crud.users' doesn't exist
+CRITICAL - 2022-07-23 09:26:44 --> Table 'crud.users' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$sToEdrVTi86S.PAacbShkOJQINgcS/pmMmIzSloSCqZyFeH1tIXV2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$sToEdrVTi86S.PAacbShkOJQINgcS/pmMmIzSloSCqZyFeH1tIXV2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$sToEdrVTi86S.PAacbShkOJQINgcS/pmMmIzSloSCqZyFeH1tIXV2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`email`, `Password`) VALUES (:email:, :Password:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Auth.php(97): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-23 09:27:49 --> Table 'crud.users' doesn't exist
+CRITICAL - 2022-07-23 09:27:49 --> Table 'crud.users' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$QtSzUsAHyNjTzZ.c3sgbM.zvqn86RTNOzIPjjMFNXRRFxNdg.XUfe\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$QtSzUsAHyNjTzZ.c3sgbM.zvqn86RTNOzIPjjMFNXRRFxNdg.XUfe\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$QtSzUsAHyNjTzZ.c3sgbM.zvqn86RTNOzIPjjMFNXRRFxNdg.XUfe\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`email`, `Password`) VALUES (:email:, :Password:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Auth.php(97): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-23 09:30:35 --> Table 'crud.users' doesn't exist
+CRITICAL - 2022-07-23 09:30:35 --> Table 'crud.users' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$Qo9otB9whSyatBf9YHCOqu7OqgbS0T53gIMnAwoJyI5abKS3Ltnt2\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$Qo9otB9whSyatBf9YHCOqu7OqgbS0T53gIMnAwoJyI5abKS3Ltnt2\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$Qo9otB9whSyatBf9YHCOqu7OqgbS0T53gIMnAwoJyI5abKS3Ltnt2\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`email`, `Password`) VALUES (:email:, :Password:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Auth.php(97): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:35:47 --> Call to a member function insert() on null
+in APPPATH\Controllers\Auth.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:39:45 --> Undefined property: App\Controllers\Auth::$load
+in APPPATH\Controllers\Auth.php on line 98.
+ 1 APPPATH\Controllers\Auth.php(98): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Auth::$load', 'APPPATH\\Controllers\\Auth.php', 98, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:42:39 --> Undefined property: App\Controllers\Auth::$load
+in APPPATH\Controllers\Auth.php on line 98.
+ 1 APPPATH\Controllers\Auth.php(98): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Auth::$load', 'APPPATH\\Controllers\\Auth.php', 98, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:43:35 --> Argument 2 passed to CodeIgniter\Model::insert() must be of the type bool, array given, called in C:\xampp\htdocs\ci\app\Controllers\Auth.php on line 98
+in SYSTEMPATH\Model.php on line 652.
+ 1 APPPATH\Controllers\Auth.php(98): CodeIgniter\Model->insert('user', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:44:34 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+in APPPATH\Controllers\Auth.php on line 98.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Auth.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Auth')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Auth')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Auth', true)
+ 6 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:44:39 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+in APPPATH\Controllers\Auth.php on line 98.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Auth.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Auth')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Auth')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Auth')
+ 5 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Auth', true)
+ 6 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:45:33 --> Call to a member function insert() on null
+in APPPATH\Controllers\Auth.php on line 99.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:47:47 --> Call to a member function insert() on null
+in APPPATH\Controllers\Auth.php on line 99.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:49:43 --> Call to a member function insert() on null
+in APPPATH\Controllers\Auth.php on line 99.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:49:56 --> Call to a member function insert() on null
+in APPPATH\Controllers\Auth.php on line 99.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:52:54 --> Call to a member function insert() on null
+in APPPATH\Controllers\Auth.php on line 99.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:53:10 --> Call to a member function insert() on null
+in APPPATH\Controllers\Auth.php on line 99.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 09:58:50 --> Undefined property: App\Controllers\Auth::$load
+in APPPATH\Controllers\Auth.php on line 99.
+ 1 APPPATH\Controllers\Auth.php(99): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Auth::$load', 'APPPATH\\Controllers\\Auth.php', 99, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-23 10:14:11 --> Table 'crud.users' doesn't exist
+CRITICAL - 2022-07-23 10:14:11 --> Table 'crud.users' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$13v999jGUzdytsDWk9Yv1u0D3Z19sHH8QHrN5.pkuGmhp3mCokObC\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$13v999jGUzdytsDWk9Yv1u0D3Z19sHH8QHrN5.pkuGmhp3mCokObC\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$13v999jGUzdytsDWk9Yv1u0D3Z19sHH8QHrN5.pkuGmhp3mCokObC\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`email`, `Password`) VALUES (:email:, :Password:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Auth.php(97): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 10:16:18 --> Undefined property: App\Controllers\Auth::$load
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 APPPATH\Controllers\Auth.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Auth::$load', 'APPPATH\\Controllers\\Auth.php', 14, [])
+ 2 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Auth->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 10:16:21 --> Undefined property: App\Controllers\Auth::$load
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 APPPATH\Controllers\Auth.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Auth::$load', 'APPPATH\\Controllers\\Auth.php', 14, [])
+ 2 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Auth->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 10:18:08 --> Undefined property: App\Controllers\Auth::$load
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 APPPATH\Controllers\Auth.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Auth::$load', 'APPPATH\\Controllers\\Auth.php', 14, [])
+ 2 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Auth->__construct()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 10:18:29 --> Call to undefined method App\Controllers\Auth::library()
+in APPPATH\Controllers\Auth.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(858): App\Controllers\Auth->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 10:22:18 --> Undefined property: App\Controllers\Auth::$db
+in APPPATH\Controllers\Auth.php on line 98.
+ 1 APPPATH\Controllers\Auth.php(98): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Auth::$db', 'APPPATH\\Controllers\\Auth.php', 98, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+ERROR - 2022-07-23 10:29:50 --> Table 'crud.users' doesn't exist
+CRITICAL - 2022-07-23 10:29:50 --> Table 'crud.users' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 292.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$yk1/AKIRtPp4WdNDch6mo.rpAQ.UP.2pMU8gj3JzRdWnzP8EG1jnO\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(695): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$yk1/AKIRtPp4WdNDch6mo.rpAQ.UP.2pMU8gj3JzRdWnzP8EG1jnO\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(609): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`email`, `Password`) VALUES (\'test1@gamil.com\', \'$2y$10$yk1/AKIRtPp4WdNDch6mo.rpAQ.UP.2pMU8gj3JzRdWnzP8EG1jnO\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1904): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`email`, `Password`) VALUES (:email:, :Password:)', [...], false)
+ 5 SYSTEMPATH\Model.php(278): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(738): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(666): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Auth.php(98): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+10 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+11 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 10:30:57 --> Argument 2 passed to CodeIgniter\Model::insert() must be of the type bool, array given, called in C:\xampp\htdocs\ci\app\Controllers\Auth.php on line 98
+in SYSTEMPATH\Model.php on line 652.
+ 1 APPPATH\Controllers\Auth.php(98): CodeIgniter\Model->insert('users', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-07-23 10:31:54 --> Call to a member function insert() on null
+in APPPATH\Controllers\Auth.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Auth->registerUser()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
